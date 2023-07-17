@@ -1,0 +1,7 @@
+[package]
+name = "crepel"
+version = "0.1.0"
+edition = "2021"
+authors = ["Akash Lohar<94453657+akash1047@users.noreply.github.com>"]
+
+[dependencies]
