@@ -5,3 +5,4 @@ edition = "2021"
 authors = ["Akash Lohar<94453657+akash1047@users.noreply.github.com>"]
 
 [dependencies]
+rustyline = "12.0.0"
